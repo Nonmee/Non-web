@@ -1,0 +1,14 @@
+.text-uppercase{
+    text-transform: uppercase;
+}
+div{
+
+    padding: 8px 20px;
+    border-radius: 50px;
+    background-color: rgba(1, 226, 170, 0.466);
+    display:inline-block
+}
+
+a{
+    text-decoration: none;
+}
