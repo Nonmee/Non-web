@@ -14,6 +14,12 @@ a{
 }
 
 
-.mybg{
-    background-color: rgb(197, 77, 233);
+
+
+
+footer /* กรอบล่างสุด */{    
+    background-color: #6229AE; 
+    text-align: center;  /* ขยับให้ตัวอักษรอยู่ตรงกลาง */
+    color: aliceblue;
+    padding: 10px;
 }

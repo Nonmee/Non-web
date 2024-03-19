@@ -1,0 +1,33 @@
+footer /* กรอบล่างสุด */{    
+    background-color: #6229AE; 
+    text-align: center;  /* ขยับให้ตัวอักษรอยู่ตรงกลาง */
+    color: aliceblue;
+    padding: 10px;
+}
+
+.my-circle{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    
+}
+
+.col-sm-3{
+    
+}
+
+/* ------------------------------------member----------------------------------------- */
+.member{
+    background-color: aquamarine;
+    padding: 40px;
+}
+
+.member-box{
+    width: 1100px;
+    background-color: aliceblue;
+    margin: auto;
+    box-shadow: 0px 0px 2px 1px  rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 1px 40px 40px;
+}
